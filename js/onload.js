@@ -33,7 +33,7 @@ function loadApp() {
 
         // The number of pages
 
-        pages: 20,
+        pages: 426,
 
         direction : "ltr",
 
